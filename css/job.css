@@ -1,0 +1,92 @@
+/*job页面*/
+.job_search_img{ width:100%; height:560px; background:url(../images/job_search_img.jpg) no-repeat center top;}
+.job_search{ width:1065px; height:200px; padding-top:200px;overflow:hidden; margin:0px auto;}
+.job_search .insel{float:left; margin:18px 0px 0px 15px; height:35px; line-height:35px; border:none; background-color:#fff; text-indent:15px;}
+.job_search .width1{ width:250px;}
+.job_search .width2{ width:166px;}
+.job_search .width3{ width:333px;}
+.job_search label{float:left; margin:25px 0px 0px 24px;}
+.job_search button{ width:244px;height:53px; background:url(../images/i_icon.png) no-repeat 0px -428px; border:none; margin:12px 0px 0px 90px; cursor:pointer;}
+.job_search button:hover{background:url(../images/i_icon.png) no-repeat 0px -492px; border:none;}
+.job_width{ width:1246px;height:auto; margin:0px auto; margin-top:-150px; padding-top:23px;background-color:#fff;}
+.job_left{ width:920px; height:auto; overflow:hidden;}
+.job_ltitle{ width:918px; height:43px; line-height:43px; border:1px solid #ddd; background-color:#f5f5f5;}
+.job_ltitle li.tjob{ width:100px; text-align:center;font-size:16px; color:#3fb01a;}
+.job_ltitle li.page{ width:780px; border-right:none; font-size:14px; color:#666;text-align:right;}
+.job_ltitle li.page span{ color:#3fb01a; font-size:18px; }
+.job_ltitle li.page a{ border:1px solid #ddd;font-family:"宋体"; font-size:12px; color:#999; margin-right:12px;}
+.job_ltitle li.page a.up{padding:5px 8px 5px 18px; background:url(../images/i_icon.png) no-repeat -309px -57px; background-color:#fff;}
+.job_ltitle li.page a.down{padding:5px 18px 5px 8px;background:url(../images/i_icon.png) no-repeat -265px -36px;background-color:#fff;}
+.job_ltitle li.page a.up:hover{background:url(../images/i_icon.png) no-repeat -309px -99px;background-color:#3fb01a;}
+.job_ltitle li.page a.down:hover{background:url(../images/i_icon.png) no-repeat -265px -78px;background-color:#3fb01a;}
+.job_ltitle li.page a:hover{border:1px solid #3fb01a;color:#fff; text-decoration:none;}
+.job_lbox{ width:920px; height:auto; border-bottom:1px dotted #ddd; margin:10px 0px;}
+.job_llist{ width:920px;height:48px;overflow:hidden;}
+.job_llist li{ float:left;height:48px; line-height:48px; font-size:14px; color:#333;overflow:hidden;}
+.job_llist li.choose{margin-right:12px;}
+.job_llist li.jobname{ width:290px; margin-right:15px;}
+.job_llist li.jobcompany{ width:290px; margin-right:15px;}
+.job_llist li.jobarea{ width:130px; margin-right:15px;}
+.job_llist li.jobdate{ width:130px; text-align:right;}
+.job_lint{ width:740px;height:auto;float:left;margin-left:22px;font-family:"宋体";font-size:12px;}
+.job_lint dl{ width:740px; height:30px; line-height:30px; overflow:hidden;}
+.job_lint dl dd{ float:left; margin-right:18px; color:#989898; }
+.job_lint p{ line-height:24px; color:#666; padding-bottom:10px;}
+.job_apply{ display:block;width:86px; height:32px; text-align:center; line-height:32px; font-size:14; font-family:"宋体"; color:#fff; text-decoration:none; background-color:#ff8a00; margin:20px 0px 0px 60px;}
+.job_apply:hover{ color:#fff; text-decoration:none; background-color:#ff5400;}
+
+.job_right{ width:260px; height:auto; background-color:#f5f5f5; overflow:hidden;}
+.job_right h3{ width:260px; height:24px; margin:15px 0px; background:url(../images/i_icon.png) no-repeat 12px -350px;}
+.job_right h3.bgc{ background:url(../images/i_icon.png) no-repeat 12px -380px;}
+.job_rbox{ width:235px; height:auto; margin:0px auto; padding-bottom:10px;}
+.job_rbox dd{ height:36px; line-height:36px; font-size:14px;color:#333; overflow:hidden;}
+.job_rbox dd i{ padding-right:12px; color:#000; font-weight:600;}
+.job_rbox dd i.numtop{color:#ff6c00;}
+.job_rbox dd span{padding-left:15px; color:#a0a0a0; font-family:"宋体"; font-size:12px;}
+.job_rbox1{ width:218px; margin:0px auto;}
+.job_rbox1 img{ width:218px; height:109px; overflow:hidden; margin-bottom:15px;}
+
+
+/*job介绍样式*/
+.mtop30{ margin-top:30px;}
+.jobi_left{width:920px;height:auto;overflow:hidden;}
+.jobi_box{ width:920px; height:95px; border-bottom:1px dashed #ddd;}
+.jobi_name{ width:660px; height:95px;}
+.jobi_name h3{ width:660px; height:50px; line-height:50px; font-size:20px; color:#333; font-weight:600;}
+.jobi_name p{width:660px; height:24px; line-height:24px; font-size:14px;}
+.jobi_name p a{color:#3fb01a; text-decoration:none;}
+.jobi_name p a:hover{ color:#3fb01a; text-decoration:underline;}
+.jobi_name p span{ color:#666; padding-left:20px;}
+a.jobi_apply{display:block;width:212px; height:53px; background:url(../images/button.png) no-repeat left top; margin-top:12px;}
+a.jobi_apply:hover{background:url(../images/button.png) no-repeat left -62px; text-decoration:none;}
+.jobi_int{ width:920px; height:auto; margin-top:25px;}
+.jobi_int li{ width:310px; height:34px; line-height:34px; float:left; color:#333; font-size:14px; margin-left:15px;}
+.jobi_nav{ width:920px; height:42px; border-bottom:1px solid #ddd; background-color:#f5f5f5;margin-top:25px;}
+.jobi_nav dd{ float:left; margin-left:15px; height:43px; line-height:42px; font-size:16px; color:#333;padding:0px 12px; font-weight:600; cursor:pointer;}
+.jobi_nav .isel{float:left; margin-left:15px; height:42px; line-height:42px; font-size:16px; color:#333;background-color:#fff; border:1px solid #ddd; border-bottom:none;padding:0px 12px;font-weight:600;cursor:pointer;}
+.jobi_explain{ width:900px; padding:15px 0px 0px 20px; height:auto; overflow:hidden;}
+.jobi_explain h4{ height:55px; line-height:55px; color:#3fb01a; font-size:16px; font-weight:600;}
+.jobi_explain p{ line-height:28px; font-size:14px; color:#333;}
+.jobi_explain a{ color:#3fb01a; text-decoration:underline;}
+.jobi_explain a:hover{ color:#f00; text-decoration:underline;}
+.jobi_contact{width:900px; padding:0px 0px 25px 20px; height:auto; overflow:hidden;}
+.jobi_contact p{ line-height:28px; font-size:14px; color:#333;}
+.jobi_contact h4{ height:55px; line-height:55px; color:#3fb01a; font-size:16px; font-weight:600;}
+
+/*job公司介绍样式*/
+.jobc_name{ width:920px;height:70px;line-height:60px; font-size:20px; color:#333; font-weight:600; border-bottom:1px dashed #ddd;}
+.jobc_int{ width:600px; height:auto; margin:25px 0px 0px 15px;}
+.jobc_int li{ width:600px; height:34px;line-height:34px;color:#333;font-size:14px;}
+.jobc_logo{ width:218px; height:109px; float:left; margin:15px;}
+.jobc_box{ width:920px; height:auto; padding-top:15px;}
+.jobc_employ{ width:920px; height:44px;border-bottom:1px solid #ddd;overflow:hidden;}
+.jobc_employ li{line-height:44px;float:left;}
+.jobc_employ li.place{ width:330px;margin-left:15px;}
+.jobc_employ li.number{ width:100px;text-align:center;margin-left:30px;}
+.jobc_employ li.time{ width:200px;margin-left:30px;}
+.jobc_employ li.area{ width:170px;margin-left:45px;}
+.jobc_employ li a{ color:#3fb01a; text-decoration:none;}
+.jobc_employ li a:hover{ color:#3fb01a; text-decoration:underline;}
+
+
+

@@ -1,0 +1,230 @@
+/* 首页 */
+.con_left{ width:780px; height:auto; overflow:hidden;}
+.land_box{ width:353px; height:270px; border:1px solid #ddd; background-color:#f1f1f1; overflow:hidden;}
+.land_bt{ width:353px; height:52px; line-height:52px; text-indent:25px; font-size:18px; font-weight:normal; color:#333; background:url(../../images/huawei/landbg.jpg) no-repeat 10px center; border-bottom:1px solid #ddd;}
+.land_xx{ width:300px; height:35px; line-height:32px; margin:20px 0px 0px 30px;}
+.land_xx p{ width:60px; font-size:14px; color:#333; float:left;}
+.land_xx input{ width:238px; height:32px; color:#999; border:1px solid #e0e0e0; border-radius:4px; float:left;}
+.land_button{ width:300px; height:37px; border:none; background:url(../../images/huawei/land_but.jpg) no-repeat; margin:20px 0px 0px 25px;}
+.land_ot{width:300px; height:36px; line-height:36px; text-align:right;margin:10px 0px 0px 25px;}
+
+.box_right{ width:395px; height:auto; overflow:hidden;}
+.box_bt{ width:395px; height:36px; line-height:36px; text-indent:5px; background:url(../../images/huawei/title_bg.jpg) no-repeat left bottom; font-size:18px;font-weight:normal;}
+.box_list{ width:387px; height:auto;margin:8px 0px 0px 8px;}
+.box_list li{width:380px; height:28px; line-height:28px;}
+.box_right img{ width:125px; height:160px; margin:15px 0px 0px 5px; float:left;}
+.box_right p{ width:255px; height:165px; margin-top:12px; line-height:24px; float:right;}
+
+.box_left{ width:355px; height:auto; overflow:hidden;}
+.box_lbt{width:355px; height:36px; line-height:36px; text-indent:5px; background:url(../../images/huawei/title_bg.jpg) no-repeat left bottom; font-size:18px;font-weight:normal;}
+.box_left img{ width:125px; height:160px; margin:15px 0px 0px 10px; float:left;}
+.box_left p{ width:205px; height:160px; margin-top:15px; line-height:25px; float:right;}
+
+.con_right{ width:330px; height:auto; overflow:hidden;}
+a.fabu{ width:330px; height:48px; background:url(../../images/huawei/fabu.jpg) no-repeat left top; display:block;}
+a.fabu:hover{ background:url(../../images/huawei/fabu.jpg) no-repeat left top;}
+.right_bt{ width:330px; height:38px; line-height:38px; text-indent:15px; font-size:18px; color:#fff; background-color:#e40000; font-weight:normal; margin-top:8px;}
+.right_list{ width:320px; height:auto; margin:8px 0px 0px 10px;}
+.right_list li{ width:320px; height:28px; line-height:28px;}
+.right_list li span{ float:right; color:#9b9b9b;}
+.right_dl{ width:330px; height:145px; overflow:hidden; background:url(../../images/huawei/go.jpg) no-repeat 12px center;}
+.right_dl dd{ width:220px; height:36px; line-height:36px; text-indent:20px; font-size:14px; color:#e40000; margin:8px 0px 0px 110px; background-color:#e4e4e4;}
+
+/* 介绍页面 */
+.i_banner{ width:100%; height:232px;background:url(../../images/huawei/i_bg.png) repeat-x left top;}
+.i_babg{ width:1140px; height:232px;background:url(../../images/huawei/i_banner.jpg) no-repeat center top; margin:0px auto;}
+.i_type{ width:705px; height:60px; line-height:60px; font-size:32px; padding-top:10px; font-weight:normal;}
+.i_pro{ width:705px; line-height:30px; height:64px; font-size:14px;}
+.i_nav{ width:700px; height:46px; margin-top:31px;overflow:hidden;}
+.i_nav li{ width:145px; height:46px;line-height:46px; text-align:center; font-size:20px; color:#333; background-color:#f2f2f2; cursor:pointer; float:left;}
+.i_nav .sel{color:#fff;cursor:pointer; background-color:#fb5153;}
+
+.i_title{ width:1140px; height:80px; line-height:80px; text-align:center; font-size:38px; font-weight:normal;}
+.i_wxx{ width:1140px; height:40px; line-height:40px; text-align:center; font-size:12px; color:#acacac; background:url(../../images/huawei/i_xian.jpg) repeat-x left bottom;}
+.i_con{ width:1140px; height:auto; line-height:28px; color:#333; font-size:14px; margin-top:28px;}
+.i_reprint{ width:1140px; height:60px; line-height:60px; font-size:14px; color:#e60002;}
+/* 新闻列表页面 */
+.news_con{ width:100%; height:auto; background:url(../../images/huawei/a_bg.png) repeat; border-top:3px solid #e4e4e4;}
+.alist_type{ width:480px; height:100px; margin-top:20px; line-height:100px; font-size:46px; font-weight:normal; color:#333;}
+.all_type{ width:385px; height:32px; margin-top:68px;}
+.all_type li{ float:left; margin-left:15px;}
+.all_type li a{ padding:4px 8px; border:1px solid #d9d9d9; background-color:#e9e9e9; font-size:14px; color:#333; text-decoration:none;}
+.all_type li a:hover{ padding:4px 8px;border:1px solid #494949; background-color:#494949; font-size:14px; color:#fff; text-decoration: none;}
+.a_title{ width:1140px; height:26px; overflow:hidden;}
+.a_title h3{ width:110px;height:26px; line-height:26px; color:#333; font-size:20px; font-weight:normal;float:left; overflow:hidden;}
+.a_title .bg{ width:1030px;height:26px; background:url(../../images/huawei/shuxian.png) repeat left top;}
+
+.awz_list{ width:1140px; height:90px; overflow:hidden; border-bottom:1px dotted #888;margin-top:20px;}
+.awz_list img{ width:126px; height:82px; margin-left:10px;float:left;}
+.awz_list dl{ width:980px; float:right;}
+.awz_list dl dt{ width:980px; height:36px; line-height:36px; font-size:16px;}
+.awz_list dl dd{ width:980px; height:24px; line-height:24px; font-size:14px; color:#959595;}
+
+.a_page{ width:1140px; text-align:center; margin:45px 0px 45px 0px;}
+.a_page a{ padding:3px 7px; border:1px solid #c2c2c2; background-color:#fff; color:#333; text-decoration:none; margin-left:10px;}
+.a_page a:hover{ padding:3px 7px; border:1px solid #494949; background-color:#494949; color:#fff; text-decoration:none;}
+ul.yiiPager a:link, ul.yiiPager a:visited {
+	color: #333 !important; 
+}
+
+ul.yiiPager a:link, ul.yiiPager a:visited {
+	border: solid 1px #494949 !important;
+}
+ul.yiiPager .selected a {
+	background: #BDBDBD !important;
+}
+
+
+/* 新闻内容 */
+.a_wzbt{ width:1140px; height:70px; line-height:70px; font-size:30px; font-weight:normal; color:#333; margin-top:38px;}
+.a_xgxx{ width:1140px; height:36px; line-height:36px; color:#959595; font-size:12px;}
+.a_content{width:1140px; height:auto; padding-bottom:15px; border-bottom:1px dotted #999;}
+.a_content p{line-height:28px; font-family:"宋体"; color:#333; text-indent:2em;}
+.a_fbox{ width:1140px; height:70px; margin:30px 0px; overflow:hidden;}
+.a_fbox .ud{ width:660px; height:70px; line-height:35px; font-size:14px;}
+.a_fbox .close{ width:112px; height:39px; margin-top:15px; background:url(../../images/huawei/close_but.png) no-repeat 0 0; border:none;}
+
+/* 授权网院列表 */
+.netlist{ font-size:16px;}
+.netlist .td1{ font-size:18px; color:#333; border-bottom:3px solid #333;}
+.netlist .td2{ border-bottom:1px dashed #ccc;}
+
+/* 认证学习页面 */
+.rz_type{ width:340px; height:32px; margin-top:68px;}
+.rz_type li{ float:left; margin-left:22px;}
+.rz_type li a{ padding:6px 12px; border:1px solid #d9d9d9; background-color:#e9e9e9; font-size:18px; color:#333; text-decoration:none;}
+.rz_type li a:hover{ border:1px solid #494949; background-color:#494949;color:#fff; text-decoration: none;}
+.rz_title{ width:1140px; height:26px; overflow:hidden;}
+.rz_title h3{ width:140px;height:26px; line-height:26px; color:#333; font-size:20px; font-weight:normal;float:left; overflow:hidden;}
+.rz_title .bg{ width:1000px;height:26px; background:url(../../images/huawei/shuxian.png) repeat left top;}
+.rz_class{width:1120px; height:auto; overflow:hidden; margin:30px 0px 25px 20px;}
+.rz_class h4{ width:100px; height:50px; line-height:50px; text-align:center; font-size:16px; color:#333; float:left;}
+.rz_class ul{ width:1010px; height:auto; float:right;}
+.rz_class ul li{float:left; margin:12px 0px 0px 12px; font-size:14px;}
+.rz_class ul li a{padding:2px 6px; color:#333;}
+.rz_class ul li a:hover{ color:#fff; background-color:#494949; text-decoration:none;}
+.rz_class ul li a.sel{padding:2px 6px; color:#fff;background-color:#494949;}
+.rz_class ul li a.sel:hover{ color:#fff; background-color:#494949; text-decoration:none;}
+
+.rz_list{ width:1140px; height:92px;overflow:hidden;border-bottom:1px dotted #888;margin-top:20px;}
+.rz_list img{ width:126px; height:82px; margin-left:12px;float:left;}
+.rz_list dl{ width:805px; margin-left:20px; float:left;}
+.rz_list dl dt{ width:805px; height:36px; line-height:36px; font-size:16px;}
+.rz_list dl dd{ width:805px; height:24px; line-height:24px; font-size:14px; color:#959595;}
+.rz_list a.down{ display:block;width:110px;height:40px;line-height:40px; text-indent:35px;color:#333;background:url(../../images/huawei/down_bg1.png) no-repeat left top;overflow:hidden;margin:15px 15px 0px 0px;}
+.rz_list a.down:hover{ background:url(../../images/huawei/down_bg.png) no-repeat left top; color:#fff; text-decoration:none;}
+
+/* 认证视频页面 */
+.rzv_list{width:1140px;height:102px;overflow:hidden;border-bottom:1px dotted #888;margin-top:20px;}
+.rzv_list img{ width:143px; height:92px; margin-left:12px;float:left;}
+.rzv_list dl{ width:805px; margin-left:20px; float:left;}
+.rzv_list dl dt{ width:805px; height:36px; line-height:36px; font-size:16px;}
+.rzv_list dl dd{ width:805px; height:24px; line-height:24px; font-size:14px; color:#959595;}
+.rzv_list a.down{ display:block;width:110px;height:40px;line-height:40px; text-indent:35px;color:#333;background:url(../../images/huawei/see1.png) no-repeat left top;overflow:hidden;margin:15px 15px 0px 0px;}
+.rzv_list a.down:hover{ background:url(../../images/huawei/see.png) no-repeat left top; color:#fff; text-decoration:none;}
+
+/* 视频课程列表 */
+.video_left{ width:710px; height:auto; overflow:hidden; float:left;}
+.video_path{ width:710px; height:60px; line-height:60px; color:#666; font-size:14px;}
+.video_path a{color:#666; text-decoration:none;}
+.video_path a:hover{ color:#f00; text-decoration:underline;}
+.video_title{ width:710px; height:70px; line-height:70px; color:#333; font-size:28px;}
+.video_lt{ width:710px; height:38px; line-height:38px;text-indent:15px; color:#000;font-size:16px; background-color:#e7e7e7;}
+.video_list{ width:710px; height:auto;}
+.video_list li{ width:695px; height:46px; line-height:46px; margin-left:15px; font-size:14px; overflow:hidden;}
+.video_list li p{ float:left; padding-right:12px;}
+.video_list li span{ float:right;}
+a.play{ color:#f00; text-decoration:none}
+a.play:hover{ color:#f00; text-decoration:underline;}
+
+.video_right{ width:300px; height:auto; overflow:hidden; float:right; background-color:#ececec; border:1px solid #c9c9c9; margin-top:25px;}
+.video_right h3{ font-size:20px; color:#333; height:60px; line-height:60px; font-weight:normal; text-indent:25px;}
+.video_right dl{ width:250px; height:auto; margin:0px 0px 12px 25px;}
+.video_right dl img{ width:250px; height:160px;}
+.video_right dl dd{ width:250px; height:36px; line-height:36px; overflow:hidden; text-align:center; font-size:14px;}
+
+.video_play{ width:710px; height:465px; background-color:#333; margin-top:15px;}
+.video_int{ height:36px; line-height:36px; margin-top:10px; color:#000; font-size:16px;}
+.video_js{ width:710px; height:auto; color:#666; font-size:14px; line-height:28px;}
+
+
+/* 视频播放 */
+.video_play{ width:710px; height:465px; background-color:#333; margin-top:15px;}
+.video_int{ height:36px; line-height:36px; margin-top:10px; color:#000; font-size:16px;}
+.video_js{ width:710px; height:auto; color:#666; font-size:14px; line-height:28px;}
+
+/* 行业资料列表 */
+.industry_con{ width:100%; height:auto;border-top:3px solid #e4e4e4;}
+.ind_title{ width:1060px; height:52px; line-height:52px; text-indent:15px; font-size:20px; color:#000; font-weight:normal;background:url(../../images/huawei/in_title.jpg) no-repeat left bottom; margin-top:15px;}
+.ind_list{ width:1060px; height:65px; margin-top:20px; border-bottom:1px dotted #a5a5a5; overflow:hidden;}
+.ind_list img{ width:42px; height:47px; margin-left:15px; float:left;}
+.ind_list dl{ width:805; height:78px; overflow:hidden; margin-left:25px; float:left;}
+.ind_list dl dt{ width:805px; height:24px; line-height:24px; font-size:16px;}
+.ind_list dl dd{width:805px; height:38px; line-height:38px; font-size:14px; color:#959595;}
+.ind_list a.down{ display:block;width:110px;height:40px;line-height:40px; text-indent:35px;color:#333;background:url(../../images/huawei/see1.png) no-repeat left top;overflow:hidden;margin:8px 15px 0px 0px; float:right;}
+.ind_list a.down:hover{ background:url(../../images/huawei/see.png) no-repeat left top; color:#fff; text-decoration:none;}
+
+/* 华为活动 */
+.activity_left{ width:710px; height:auto; float:left; overflow:hidden;}
+.ac_title{ height:52px;line-height:52px; text-indent:15px; font-size:20px; color:#000; font-weight:normal;background:url(../../images/huawei/in_title.jpg) no-repeat left bottom; margin-top:15px;}
+.ac_title_w1{ width:710px;}
+.ac_title_w2{ width:300px;}
+.ac_list{ width:710px; height:130px; border-bottom:1px dotted #a5a5a5; overflow:hidden; margin-top:22px;}
+.ac_list img{ width:110px; height:110px; float:left;}
+.ac_list dl{ 
+	
+	width:680px; 
+	height:auto; 
+	/*
+	float:right;
+	*/
+	float:left;
+}
+.ac_list dl dt{ 
+	/* width:580px; */
+	height:24px; 
+	line-height:24px; 
+	font-size:16px;
+}
+.ac_list dl dt span{ color:#a0a0a0; padding-left:15px;}
+.ac_list dl dd{ 
+	/* width:580px; */
+	height:78px; 
+	padding-top:8px; 
+	overflow:hidden;
+	font-size:12px; 
+	line-height:26px; 
+	color:#666;
+}
+
+.activity_right{ width:300px; height:auto; float:right; overflow:hidden;}
+.acv_list{ width:300px; height:215px; margin-top:20px; border-bottom:1px dotted #a5a5a5; overflow:hidden;float: left;}
+.acv_list img{ width:265px; height:170px; margin-left:18px;}
+.acv_list li{ width:282px; height:42px; line-height:42px; margin:0px auto;}
+.acv_list li span{ float:right; color:#848484;}
+
+
+/* 素质教育 */
+.education_left{ width:650px; height:auto; overflow:hidden; float:left;}
+.ed_title_w1{ width:650px;}
+.ed_title_w2{ width:370px;}
+.ed_list{width:265px; height:220px; margin:32px 40px 0px 20px; float:left;}
+.ed_list img{ width:265px; height:170px;}
+.ed_list dt{ width:265px; height:34px; line-height:34px; font-size:16px; overflow:hidden;}
+.ed_list dd{width:265px; height:24px; line-height:24px; font-size:14px; color:#767676; overflow:hidden;}
+.education_right{ width:370px; height:auto; overflow:hidden; float:right;}
+
+.edr_list{ width:370px; margin-top:15px; height:auto;}
+.edr_list li{width:370px; height:32px; line-height:32px; font-size:14px; overflow:hidden;}
+.edr_list li span{ float:right;}
+a.ed_red{ color:#f00; text-decoration:none;}
+a.ed_red:hover{ color:#f00; text-decoration: underline;}
+
+/* 文章内容 */
+.ar_wzbt{ width:1060px; height:70px; line-height:70px; font-size:30px; font-weight:normal; color:#333;margin-top:12px; text-align:center;}
+.ar_xgxx{ width:1060px; height:36px; line-height:36px; color:#959595; font-size:12px; text-align:center;}
+.ar_content{width:1060px; height:auto; padding-bottom:15px; border-bottom:1px dotted #999;}
+.ar_content p{line-height:28px; font-family:"宋体"; color:#333; text-indent:2em;}
+.ar_fbox{ width:1060px; height:70px; margin:30px 0px; overflow:hidden;}
+.ar_fbox .ud{ width:660px; height:70px; line-height:35px; font-size:14px;}
+.ar_fbox .close{ width:112px; height:39px; margin-top:15px; background:url(../../images/huawei/close_but.png) no-repeat 0 0; border:none;}

@@ -1,0 +1,58 @@
+/*lesson*/
+.lesson_left{ width:225px; height:auto;}
+.lesson_ltitle{ width:225px; height:48px; line-height:48px; text-indent:32px; font-size:16px; color:#fff; font-weight:normal; background-color:#3fb01a; margin-top:15px;}
+.lesson_ltype{ width:225px; height:auto;}
+.lesson_ltype li{width:223px; height:42px;line-height:42px;border:1px solid #ddd;margin-top:-1px;background-color:#fff;position:relative;}
+.lesson_ltype li a{ display:block; text-indent:32px;}
+.lesson_ltype li a:hover{position:relative;z-index:30; background-color:#fff; border:1px solid #3fb01a; border-right:none; text-decoration:none; color:#3fb01a;}
+.lesson_ltype li a.nodata{ display:block; text-indent:32px;}
+.lesson_ltype li a.nodata:hover{background-color:#fff;border:1px solid #3fb01a;text-decoration:none; color:#3fb01a;}
+/*悬浮菜单*/
+#allsort .item .i-mc{display:none;width:420px;border:1px solid #34a60f;background:#fff;top:0px;left:222px;position:absolute;z-index:1;overflow:hidden;}
+#allsort .hover .i-mc{display: block;z-index:1;}
+#allsort .hover a{position:relative;z-index:30; display:block;background-color:#fff; border:1px solid #3fb01a; border-right:none;}
+#allsort .item .i-mc dl{padding:0px 20px 25px 20px;font-size:14px;}
+#allsort .item .i-mc dl a{ display:inline;color:#333; text-decoration:none; border:none;}
+#allsort .item .i-mc dl a:hover{ color:#3fb01a; text-decoration:underline;}
+#allsort .item .i-mc dl dt{font-weight:bold; color:#333; height:30px; padding-top:12px;}
+#allsort .item .i-mc dl dd{height:26px; line-height:36px;float:left; margin:12px 30px 0px 0px;}
+
+.lesson_lbox{width:223px;height:auto;border:1px solid #ddd;padding-bottom:10px;}
+.lesson_ljg{ width:216px; height:50px;margin:12px 0px 0px 7px;}
+.lesson_ljg img{ width:100px; height:50px; float:left;}
+.lesson_ljg .int{ width:110px; height:50px; float:left; margin-left:5px; overflow:hidden;}
+.lesson_ljg .int p{ width:110px; height:30px; line-height:30px; overflow:hidden; color:#333; font-size:14px;}
+.lesson_ljg .int a{ width:110px; height:20px; line-height:20px; color:#ff9a2b;font-size:12px; text-decoration:none;}
+.lesson_ljg .int a:hover{ color:#f00; text-decoration:underline;}
+
+.lesson_right{width:975px; height:auto; overflow:hidden; margin-top:15px;}
+.lesson_rbox{ width:946px; height:45px; background-color:#f5f5f5;border:1px solid #ddd; margin-left:25px;}
+.lesson_rbox li{height:45px; line-height:45px; border-right:1px solid #ddd; float:left;}
+.lesson_rbox li.type{ width:120px; text-align:center;font-size:16px; color:#333;}
+.lesson_rbox li.order{width:50px; text-align:center; font-size:12px; font-family:"宋体";}
+.lesson_rbox li.order a{ color:#3fb01a; display:block;}
+.lesson_rbox li.order a:hover{ color:#fff; background-color:#3fb01a;text-decoration:none;}
+.lesson_rbox li.page{ width:660px; border-right:none; font-size:14px; color:#666;text-align:right;}
+.lesson_rbox li.page span{ color:#3fb01a; font-size:18px; }
+.lesson_rbox li.page a{ border:1px solid #ddd;font-family:"宋体"; font-size:12px; color:#999; margin-right:12px;}
+.lesson_rbox li.page a.up{padding:5px 8px 5px 18px; background:url(../images/i_icon.png) no-repeat -309px -57px; background-color:#fff;}
+.lesson_rbox li.page a.down{padding:5px 18px 5px 8px;background:url(../images/i_icon.png) no-repeat -265px -36px;background-color:#fff;}
+.lesson_rbox li.page a.up:hover{background:url(../images/i_icon.png) no-repeat -309px -99px;background-color:#3fb01a;}
+.lesson_rbox li.page a.down:hover{background:url(../images/i_icon.png) no-repeat -265px -78px;background-color:#3fb01a;}
+.lesson_rbox li.page a:hover{border:1px solid #3fb01a;color:#fff; text-decoration:none;}
+.lesson_rlist{ width:975px; height:auto;overflow:hidden;}
+.lesson_class{ float:left; width:218px; height:200px; margin:20px 0px 0px 25px;overflow:hidden;}
+.lesson_class:hover{ box-shadow: 2px 2px 5px 2px #ccc;}
+.lesson_class .limg{width:218px; height:140px; overflow:hidden;}
+.lesson_class:hover .limg img{transform: scale(1.3);
+    transition: all 1s ease 0s;
+	-webkit-transform: scale(1.3);
+	-webkit-transform: all 1s ease 0s;}
+.lesson_class .limg img{ width:218px; height:140px;transition: all 1s ease 0s}
+.lesson_class dt{width:218px; height:32px; line-height:32px; font-size:14px;}
+.lesson_class dt a{ color:#333; text-decoration:none;}
+.lesson_class dt a:hover{ color:#34a60f; text-decoration:none;}
+.lesson_class dd{width:218px; height:28px; line-height:28px; font-size:12px; font-family:"宋体"; color:#999;}
+.lesson_class dd .teacher{width:105px; text-indent:15px;float:left;background:url(../images/i_icon.png) no-repeat 0px -186px;}
+.lesson_class dd .number{ width:55px;text-indent:25px;float:left;background:url(../images/i_icon.png) no-repeat 0px -209px;}
+.lesson_class dd .zan{ width:55px;text-indent:20px;float:left;background:url(../images/i_icon.png) no-repeat 0px -231px;}

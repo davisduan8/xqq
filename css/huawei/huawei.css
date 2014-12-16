@@ -1,0 +1,55 @@
+/* 通用样式 */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, table, th, td {margin:0; padding:0;}
+address, caption, cite, code, dfn, em, th, var { font-style:normal;}
+h1, h2, h3, h4, h5, h6{ margin:0px;}
+ul, li, dl, dd, dt { list-style-type:none;}
+img { border:none;}
+input, textarea, select { font-family:inherit; font-weight:inherit; vertical-align:middle;}
+input,select{ vertical-align:middle; /* height:18px; */ line-height:18px;} 
+a { color: #333; text-decoration:none; cursor: pointer;}
+a:hover { color: #f00; text-decoration:underline;}
+.clear,.clear_all  { clear:both;}
+.clear_all  {height:0px;line-height:0px;font-size:0px;}
+.clear:after,.clear_all:after { content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.mtop20{margin-top:20px; }
+.mleft20{ margin-left:20px;}
+.pleft15{ padding-left:15px;}
+.pleft25{ padding-left:25px;}
+.left { float:left;}
+.right { float:right;}
+body{ font-size:14px; font-family:"微软雅黑"; color:#333;}
+.page_width{width:1140px; height:auto; margin:0px auto;}
+.page_width01{ width:1060px; height:auto; margin:0px auto;}
+.carousel-inner { min-width: 1140px;}
+.list-view .pager {
+	text-align: center !important;
+}
+/* top */
+.top{min-width:1140px; height:42px; line-height:42px; background-color:#666; color:#fff; font-family:"宋体"; font-size:12px;}
+.top a{ color:#fff; text-decoration:none;}
+.top a:hover{ color:#ff0; text-decoration:underline;}
+.top_l{ width:150px;}
+.top_c{ width:130px;}
+.top_c img{ float:right; margin:8px 0px 0px 5px;}
+.tui_r{ width:160px;}
+.tui_r .land{ width:88px; height:26px; line-height:26px; text-align:center; margin-top:8px; border-radius:20px; background-color:#9d9d9d;}
+
+.top2{ min-width:1140px; height:100px; background-color:#f9f9f9;}
+.logo{ width:225px; height:86px;margin-top:8px;}
+.s_nav{ width:550px; height:30px; line-height:30px;margin:40px 0px 0px 100px;font-size:15px; }
+.s_nav li{ float:left;padding-right:20px; margin-left:22px;background:url(../../images/huawei/libg.png) no-repeat right center; font-weight:bold;position:relative;}
+.s_nav li dl{ width:120px; height:auto;display:none; position:absolute; left:-15px; top:30px; font-weight:normal; text-indent:8px; border:1px solid #e4e4e4; z-index:100;}
+.s_nav li dl dd{ width:120px;line-height:36px; font-size:14px; background-color:#fff;border-bottom:1px dotted #ccc;}
+.s_nav li dl dd a:hover{ font-weight:bold;}
+
+
+.search{ width:262px; height:35px; margin-top:35px;}
+.search .ss{ width:220px; height:33px; border:1px solid #e0e0e0; border-right:none; background-color:#fff;}
+.search .but{width:40px; height:35px; background:url(../../images/huawei/search.jpg) no-repeat; border:none;}
+
+.banner{ width:100%; height:355px; background:url(../../images/huawei/banner.jpg) no-repeat center top; background-color:#0c1620;}
+
+.foot{  min-width:1140px; height:145px; background:url(../../images/huawei/foot_bg.png) repeat-x left top;}
+.foot p{ font-size:12px; color:#fff; line-height:30px; height:60px; padding:30px 0px 0px 10px;}
+.foot a{ color:#fff; text-decoration:none;}
+.foot a:hover{ color:#ff0; text-decoration:underline;}
